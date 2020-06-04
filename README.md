@@ -19,5 +19,3 @@
     Rapid SEO Tool
     Screensaver Factory
     Surfblocker
-    Rapid PHP 2020
-    WeBuilder 2020
